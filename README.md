@@ -29,12 +29,9 @@ src/main/java/com/duoc/speedfast/
 ```
 
 
-## ▶️ Cómo ejecutar
+## ▶️ Clonar  
 
-Con Maven:
-```bash
-mvn compile
-java -cp target/classes com.duoc.speedfast.ui.Main
+https://github.com/pablo-psr/SpeedFast.git
 ```
 
 ## 🖥️ Ejemplo de salida

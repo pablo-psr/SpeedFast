@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31161002/README.md)
+
 # SpeedFast 🚀📦
 
 Sistema de gestión de pedidos desarrollado en Java. Simula la asignación de repartidores para distintos tipos de pedido (comida, encomiendas y compras express), aplicando conceptos de Programación Orientada a Objetos.

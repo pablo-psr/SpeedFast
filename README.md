@@ -28,10 +28,6 @@ src/main/java/com/duoc/speedfast/
     └── Main.java                # Punto de entrada del programa
 ```
 
-## ⚙️ Requisitos
-
-- JDK 25
-- Maven
 
 ## ▶️ Cómo ejecutar
 
@@ -39,12 +35,6 @@ Con Maven:
 ```bash
 mvn compile
 java -cp target/classes com.duoc.speedfast.ui.Main
-```
-
-Sin Maven (compilación manual):
-```bash
-javac -d out $(find src -name "*.java")
-java -cp out com.duoc.speedfast.ui.Main
 ```
 
 ## 🖥️ Ejemplo de salida
@@ -68,4 +58,4 @@ Asignando repartidor...
 
 ## 👤 Autor
 
-Pablo — proyecto desarrollado como ejercicio práctico de Programación Orientada a Objetos.
+Pablo Sepulveda
